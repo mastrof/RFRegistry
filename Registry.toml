@@ -3,3 +3,4 @@ uuid = "2c7d2912-e159-4f8c-8875-1959b6f4b3b8"
 repo = "git@github.com:mastrof/RFRegistry.git"
 
 [packages]
+682643da-b995-4346-8c6a-9b654bba8793 = { name = "ParticleTracking", path = "P/ParticleTracking" }

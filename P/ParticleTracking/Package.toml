@@ -1,0 +1,3 @@
+name = "ParticleTracking"
+uuid = "682643da-b995-4346-8c6a-9b654bba8793"
+repo = "git@github.com:mastrof/ParticleTracking.jl.git"

@@ -1,0 +1,7 @@
+[0]
+GeometryBasics = "0.4-0.5"
+ImageFiltering = "0.7"
+MakieCore = "0.7-0.9"
+OffsetArrays = "1"
+PaddedViews = "0.5"
+julia = "1"
