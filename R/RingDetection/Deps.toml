@@ -1,4 +1,4 @@
-[0-1]
+[0]
 GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
 GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 ImageEdgeDetection = "2b14c160-480b-11ea-1b58-656063328ff7"
