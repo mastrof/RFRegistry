@@ -1,0 +1,5 @@
+name = "RFRegistry"
+uuid = "2c7d2912-e159-4f8c-8875-1959b6f4b3b8"
+repo = "git@github.com:mastrof/RFRegistry.git"
+
+[packages]
