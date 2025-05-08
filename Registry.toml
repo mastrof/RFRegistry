@@ -5,3 +5,4 @@ repo = "git@github.com:mastrof/RFRegistry.git"
 [packages]
 682643da-b995-4346-8c6a-9b654bba8793 = { name = "ParticleTracking", path = "P/ParticleTracking" }
 72f87620-1546-45cd-8031-1f00e49166d6 = { name = "RingDetection", path = "R/RingDetection" }
+777761a3-ee8a-4ed2-8fe5-73507d6fa673 = { name = "ImageProcessing", path = "I/ImageProcessing" }

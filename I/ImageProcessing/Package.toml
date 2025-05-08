@@ -1,0 +1,3 @@
+name = "ImageProcessing"
+uuid = "777761a3-ee8a-4ed2-8fe5-73507d6fa673"
+repo = "git@github.com:mastrof/ImageProcessing.jl.git"
